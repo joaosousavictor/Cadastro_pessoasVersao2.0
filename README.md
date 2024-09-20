@@ -1,4 +1,4 @@
-<img src="foto.JPG" alt="Imagem">
+<img src="foto.PNG" alt="Imagem">
 <h1>Aplicação de Cadastro de Pessoas, Projeto em Java do curso JP Java Programming , Oracle Academy em parceiria com SENAI SP</h1>
 <h2>Descrição</h2>
 Neste projeto Criamos um programa para cadastrar pessoas que contenha os seguintes campos:
